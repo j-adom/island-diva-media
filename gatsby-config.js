@@ -1,6 +1,6 @@
 module.exports = {
     pathPrefix: '/',
-    siteMetadata: require('./site-metadata.json'),
+    // siteMetadata: require('./site-metadata.json'),
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
@@ -35,7 +35,7 @@ module.exports = {
             options: {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
-                menus: require('./src/data/menus.json'),
+                // menus: require('./src/data/menus.json'),
             }
         }
     ]
