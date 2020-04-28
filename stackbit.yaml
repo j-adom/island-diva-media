@@ -103,7 +103,7 @@ sourceMapping:
       file: data/social.json
       fieldPath: 'links[1]'
   - action: delete
-    condition: context.social && !context.social.twitter
+    condition: context.social && !context.social.twitfter
     target:
       file: data/social.json
       fieldPath: 'links[0]'

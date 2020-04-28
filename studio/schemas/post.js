@@ -28,6 +28,9 @@ export default {
             "name": "thumb_img_path",
             "title": "Featured Image",
             "description": "The image shown in the blog feed.",
+            options: {
+                hotspot: true // <-- Defaults to false
+              },
             "validation": null
         },
         {

@@ -1,10 +1,10 @@
 ---
 img_path: >-
   https://cdn.sanity.io/images/2kkws7bs/production/d1eb51d548d7e3f8d8280977cd0898e232365586-178x178.jpg
-menus:
-  main:
-    title: Style Guide
-    weight: 3
+# menus:
+#   main:
+#     title: Style Guide
+#     weight: 3
 subtitle: >-
   The style guide provides you with a blueprint of default post and page styles.
   The style guide is also a great reference for suggested typographic treatment

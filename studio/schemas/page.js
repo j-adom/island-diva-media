@@ -22,6 +22,9 @@ export default {
             "name": "img_path",
             "title": "Image",
             "description": "The image shown on the left side. If no image added, the default image specified in Header Configuration is displayed.",
+            options: {
+                hotspot: true // <-- Defaults to false
+              },
             "validation": null
         },
         {
