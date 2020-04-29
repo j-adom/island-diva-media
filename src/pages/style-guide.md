@@ -1,6 +1,6 @@
 ---
 img_path: >-
-  https://cdn.sanity.io/images/2kkws7bs/production/d1eb51d548d7e3f8d8280977cd0898e232365586-178x178.jpg
+  https://cdn.sanity.io/images/2kkws7bs/production/d1eb51d548d7e3f8d8280977cd0898e232365586-3000x3000.jpg
 # menus:
 #   main:
 #     title: Style Guide
